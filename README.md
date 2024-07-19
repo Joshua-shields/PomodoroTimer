@@ -17,6 +17,9 @@ Press any key after a break to start the next work session.
 Customisation:
 Modify workDuration & breakDuration (seconds) in code.
 
+![Screenshot 2024-07-19 at 12 27 05](https://github.com/user-attachments/assets/332135bb-d874-4945-bf7c-9af5c81de534)
+
+
 INFO:
 Basic console app (no GUI)
 
