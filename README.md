@@ -1,7 +1,7 @@
 # PomodoroTimer
 
 Compile & Run e.g., Visual Studio
-Press any key after break to start work session
+Press any key after break to start work session no internet required
 
 Compile and Run the Application:
 Save the code in a C# file (e.g., PomodoroTimer.cs).
